@@ -9,4 +9,5 @@ This is a gallery of all the things I've created so far in Processing.
 
 ### 3. Ellipses moving like a slinky
 This one is just 10 ellipses moving sinusoidally with the smallest one having the largest amplitude.
+
 ![ellipse](EllipseAnim/ellipse.gif)
